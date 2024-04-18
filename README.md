@@ -5,15 +5,16 @@ This repository allows new and prospective members to learn the skills necessary
 ## Exercises
 ### General Aerodyamics
 PDF explaing basic things
+### XFLR-5
+talk about it here
+### Plane Design
+Either PDF or exceries where one would have to deisgn a plane, which will be ran in CFD
 ### Solidworks
 talk about it here
 ### Matlab/Python
 Maybe need this one
-### XFLR-5
-talk about it here
 ### STAR-CCM+
 talk about it here
 ### MotoCalc8
 talk about it
-### Plane Design
-Either PDF or exceries where one would have to deisgn a plane, which will be ran in CFD
+
