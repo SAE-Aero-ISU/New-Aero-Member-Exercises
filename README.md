@@ -6,15 +6,15 @@ This repository allows new and prospective members to learn the skills necessary
 ### General Aerodyamics
 PDF explaing basic things
 ### XFLR-5
-talk about it here
+Begin learning basics of XFLR-5
 ### Plane Design
-Either PDF or exceries where one would have to deisgn a plane, which will be ran in CFD
+Quickly design a plane to specs provided (generate a certain amount of lift at a specfic speed, should be stable, choose airfoil, wing size/profile, etc)
 ### Solidworks
-talk about it here
-### Matlab/Python
-Maybe need this one
+Greate solid body of plane they designed in past steps
 ### STAR-CCM+
-talk about it here
+Set up and maybe run sim on plane they made
+### Matlab/Python
+Quick basics of python
 ### MotoCalc8
-talk about it
+How to determine good motors
 
