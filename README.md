@@ -13,3 +13,7 @@ Maybe need this one
 talk about it here
 ### STAR-CCM+
 talk about it here
+### MotoCalc8
+talk about it
+### Plane Design
+Either PDF or exceries where one would have to deisgn a plane, which will be ran in CFD
